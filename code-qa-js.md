@@ -1,1 +1,1 @@
-# Qualidade de código e Javascript - foco acessibilidade
+# Qualidade de Código e Javascript - Foco Acessibilidade

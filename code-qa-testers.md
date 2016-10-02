@@ -1,1 +1,1 @@
-# Qualidade de código frontend para QA Testers
+# Qualidade de código front-end para QA Testers

@@ -1,1 +1,1 @@
-# Qualidade de código e mobile - foco acessibilidade
+# Qualidade de código e Mobile - Foco Acessibilidade
