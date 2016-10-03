@@ -3,6 +3,9 @@ Tempestade de ideias do [Emerson Rocha](https://github.com/fititnt)
 quanto a palestras que podem ser ministradas em prol de ações da
 [WebIWG](https://github.com/webiwg).
 
+Interesse em receber de uma ou mais pessoas colaboradoras da WebIWG palestras
+desta listas pode ser feito via contato pelo meu email em _emerson arroba
+alligo.com.br_.
 
 ## Motivação
 
@@ -43,14 +46,36 @@ eventos do mesmo porte em menos de três anos no mesmo país.
 
 ### Segunda Linha
 
+- [Estratégias no (não-)uso de Captcha em 2017](captcha.md)
 - [Usabilidade + SEO ~= Acessbilidade Web](why-a11y.md)
 - HTML para jornalistas (?)
 
+
 ### Terceira Linha
 
-Sem palestras de terceira linha.
+- [Quero convencer pessoas onde trabalho sobre acessibilidade. Como faço isso?](why-a11y.md)
 
 ## FAQ
 
-### Quem ministra estas palestras
+### Quem ministra estas palestras?
+Exceto as que envolvem conteúdo que explicitamente pode ser copiado e repassado
+sem prévio aviso, normalmente é pessoa que colabora na WebIWG, em ações como
+tradução de recomendações técnicas da W3C que antes de nosso grupo só estavam
+disponíveis em inglês.
 
+### Como faço para receber uma destas palestras em meu evento?
+Envie e-mail para _emerson arroba alligo.com.br_ contendo no assunto "Palestra
+WebIWG".
+
+### Tem algum custo receber palestra dessas em meu evento?
+Não.
+
+Caso seu evento fique geograficamente longe de pessoa colaboradora da
+WebIWG que possa dar palestra, e se seu evento tem recurso financeiro
+suficiente, ajuda de custo é bem vinda.
+
+### Sou do curso XPTO e tenho uma semana acadêmica. Podem indicar palestrante?
+Nestes casos, é interessante pedir com antecedência. Em breve teremos palestras
+padrões, que uma pessoa que já não faça parte do nosso grupo possa ministrar,
+e faremos o convite para conseguir um colega de curso para ser até mesmo
+treinado no assunto.

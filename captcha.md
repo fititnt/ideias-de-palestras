@@ -1,0 +1,1 @@
+# Estratégias no (não-)uso de Captcha
