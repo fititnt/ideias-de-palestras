@@ -43,6 +43,7 @@ eventos do mesmo porte em menos de três anos no mesmo país.
 - [Qualidade de Código e Mobile - Foco Acessibilidade](code-qa-mobile.md)
 - [Qualidade de Código e Testes de Integração Contínua](code-qa-ci.md)
 - [Qualidade de Código front-end para QA Testers](code-qa-testers.md)
+- [Estrutura de conteúdo para leitores de tela e mecanismos de busca (Publico-alvo: profissionais de A.I / U.X)](a11y-for-ai.md)
 
 ### Segunda Linha
 
@@ -54,6 +55,7 @@ eventos do mesmo porte em menos de três anos no mesmo país.
 ### Terceira Linha
 
 - [Quero convencer pessoas onde trabalho sobre acessibilidade. Como faço isso?](why-a11y.md)
+- [Projetar interfaces sem microagressões](genero.md)
 
 ## FAQ
 
@@ -79,3 +81,12 @@ Nestes casos, é interessante pedir com antecedência. Em breve teremos palestra
 padrões, que uma pessoa que já não faça parte do nosso grupo possa ministrar,
 e faremos o convite para conseguir um colega de curso para ser até mesmo
 treinado no assunto.
+
+
+<!--
+Links:
+- https://www.w3.org/WAI/tutorials/
+- https://github.com/w3c/wai-tutorials
+- https://www.w3.org/WAI/ER/tools/
+- https://www.w3.org/WAI/gettingstarted/tips/
+-->
