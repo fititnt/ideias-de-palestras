@@ -38,6 +38,13 @@ segue um padrão.
 
 ## Palestras
 
+
+<!--
+ Documentos ainda não linkados a palestras:
+ - standards.md
+ - ietf.md
+-->
+
 ### Primeira Linha
 
 Idealmente, as palestras desta lista deveriam ser dadas em eventos cujo foco
@@ -59,6 +66,14 @@ eventos do mesmo porte em menos de três anos no mesmo país.
 
 ### Terceira Linha
 
+Estas palestras, ao menos após apresentação em um evento grande onde sejam
+abertamente conhecidas pelo público em geral, poderão passar a serem ministradas
+em eventos menores, principalmente os que não tem gravação em vídeo, até mesmo
+de forma repetida, desde que esteja explícito tanto para organizador do evento
+como para o público participante isso.
+
+Poderão ser ministradas por pessoas que não são membros ativos da WebIWG.
+
 - [Quero convencer pessoas onde trabalho sobre acessibilidade. Como faço isso?](why-a11y.md)
 - [Projetar interfaces sem microagressões](genero.md)
 
@@ -71,8 +86,9 @@ tradução de recomendações técnicas da W3C que antes de nosso grupo só esta
 disponíveis em inglês.
 
 ### Como faço para receber uma destas palestras em meu evento?
-Envie e-mail para _emerson arroba alligo.com.br_ contendo no assunto "Palestra
-WebIWG".
+Envie e-mail para emerson@alligo.com.br contendo no assunto "Palestra
+WebIWG". Se por algum motivo não tiver resposta em tempo razoável, envie email
+também para vdaneto@inf.ufrgs.br.
 
 ### Tem algum custo receber palestra dessas em meu evento?
 Não.
