@@ -62,13 +62,18 @@ eventos do mesmo porte em menos de três anos no mesmo país.
 
 ### Terceira Linha
 
-Estas palestras, ao menos após apresentação em um evento grande onde sejam
-abertamente conhecidas pelo público em geral, poderão passar a serem ministradas
-em eventos menores, principalmente os que não tem gravação em vídeo, até mesmo
-de forma repetida, desde que esteja explícito tanto para organizador do evento
-como para o público participante isso.
+Por _terceira linha_, não se trata de qualidade das apresentações, mas sim que
+há propósito explícito de que possam ser reapresentadas em diversos eventos,
+até mesmo por pessoas que não sejam membros ativos da WebIWG.
 
-Poderão ser ministradas por pessoas que não são membros ativos da WebIWG.
+A primeira apresentação poderá ser restrita a um evento de maior porte. A
+**reapresentação** de tais palestras deve deixar **deixar explícito** tanto para
+organizador do evento como para o público participante de que é uma palestra
+padrão.
+
+**Dica profissional**: podem ser prefeitas, ainda que com edições para reduzir
+o tamanho, para serem aplicadas em palestras rápidas, típico de quando
+o publico participante pode falar sobre um tema sem uma seleção rigorosa.
 
 - [Quero convencer pessoas onde trabalho sobre acessibilidade. Como faço isso?](why-a11y.md)
 - [Projetar interfaces sem microagressões](genero.md)
