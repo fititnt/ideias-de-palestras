@@ -2,6 +2,27 @@
 
 _Temas relacionados: [ietf.md](ietf.md)_
 
+
+## Título da palestra: Quem define padrões e como você, brasileiro, pode fazer parte
+
+**Descrição curta**:
+No Brasil, há pouco ou nenhum incentivo para fazer parte de organizações internacionais que
+definem padrões na Internet. Isto ocorre provavelmente tanto por desconhecimento
+da forma como tais padrões são definidos, como por falta de cultura sobre pesquisa
+fora do meio acadêmico tradicional. Esta palestra visa resolver esse vazio.
+Mais do que isso: você irá entender como a busca por esse objetivo irá
+melhorar sua rede de contatos e colegas profissionais, com respectivo
+retorno pessoal em conhecimento e reconhecimento, bem como vantagens
+estratégicas a nível nacional e internacional da empresa onde você trabalha.
+
+
+
+
+---
+
+Abaixo segue informações que são comuns a todas as ideias de palestras
+relacionadas a entidades que definem padrões.
+
 ## Links para entidades
 
 ## Internacionais
