@@ -61,6 +61,7 @@ eventos do mesmo porte em menos de três anos no mesmo país.
 - [Estratégias no (não-)uso de Captcha em 2017](captcha.md)
 - [Usabilidade + SEO ~= Acessbilidade Web](why-a11y.md)
 - [Quem define padrões e como você, brasileiro, pode fazer parte](standards.md)
+- [Como escrever textos em HTML: dos erros comuns em 2017 à revisão de implicações semânticas com HTML 5.1](html-text.md)
 - HTML para jornalistas (?)
 
 
