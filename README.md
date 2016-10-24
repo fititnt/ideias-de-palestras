@@ -41,7 +41,6 @@ segue um padrão.
 
 <!--
  Documentos ainda não linkados a palestras:
- - standards.md
  - ietf.md
 -->
 
@@ -77,6 +76,7 @@ Poderão ser ministradas por pessoas que não são membros ativos da WebIWG.
 
 - [Quero convencer pessoas onde trabalho sobre acessibilidade. Como faço isso?](why-a11y.md)
 - [Projetar interfaces sem microagressões](genero.md)
+- [Contraste de Cores e Legibilidade](color-contrast.md)
 
 ## FAQ
 
