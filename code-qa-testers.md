@@ -6,7 +6,7 @@ desenvolvedores e que, também com ajuda de ferramentas em um processo
 semi-automático, deve ajudar a descobrir bugs em situações que normalmente nem
 seriam testadas.
 
-Seu impacto maior aborda ferramentas de teste
+Seu impacto maior aborda ferramentas de teste (...)
 
 ## Ideia geral
 - [Acessibilidade como consequência de bons padrões que todos devem saber](etc/code-qa-vs-a11y.md)
@@ -18,3 +18,11 @@ Seu impacto maior aborda ferramentas de teste
 - Navegação por teclado
 - Formulários
 - (...em breve mais informação...)
+
+## Possível pessoa palestrante
+
+(...adicionar no futuro...)
+
+## Ações de impacto prévias a palestra
+
+(...adicionar no futuro...)

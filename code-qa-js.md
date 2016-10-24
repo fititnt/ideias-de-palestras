@@ -13,3 +13,11 @@ da informação por softwares, como mecanismos de busca a leitores de tela.
 - Mecanismos de busca vs conteúdo criado com Javascript
 - Renderização do lado do servidor
 - (...em breve mais informação...)
+
+## Possível pessoa palestrante
+
+(...adicionar no futuro...)
+
+## Ações de impacto prévias a palestra
+
+(...adicionar no futuro...)

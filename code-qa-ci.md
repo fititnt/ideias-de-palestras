@@ -10,3 +10,11 @@ que afetam qualidade de código frontend.
 
 ## Alguns tópicos abordados
 - (...em breve mais informação...)
+
+## Possível pessoa palestrante
+
+(...adicionar no futuro...)
+
+## Ações de impacto prévias a palestra
+
+(...adicionar no futuro...)

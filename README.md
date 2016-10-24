@@ -38,30 +38,25 @@ segue um padrão.
 
 ## Palestras
 
-
-<!--
- Documentos ainda não linkados a palestras:
- - ietf.md
--->
-
 ### Primeira Linha
 
 Idealmente, as palestras desta lista deveriam ser dadas em eventos cujo foco
 seja exatamente o que a palestra se propõe, e **não** devem ser datas em
 eventos do mesmo porte em menos de três anos no mesmo país.
 
+- [Estrutura de conteúdo para leitores de tela e mecanismos de busca (Publico-alvo: profissionais de A.I / U.X)](a11y-for-ai.md)
 - [Qualidade de Código e Javascript - Foco Acessibilidade](code-qa-js.md)
 - [Qualidade de Código e Mobile - Foco Acessibilidade](code-qa-mobile.md)
 - [Qualidade de Código e Testes de Integração Contínua](code-qa-ci.md)
 - [Qualidade de Código front-end para QA Testers](code-qa-testers.md)
-- [Estrutura de conteúdo para leitores de tela e mecanismos de busca (Publico-alvo: profissionais de A.I / U.X)](a11y-for-ai.md)
 
 ### Segunda Linha
 
+- [Como escrever textos em HTML: dos erros comuns em 2017 à revisão de implicações semânticas com HTML 5.1](html-text.md)
 - [Estratégias no (não-)uso de Captcha em 2017](captcha.md)
+- [Editores de HTML visuais (título provisório)](html-visual-editor.md)
 - [Usabilidade + SEO ~= Acessbilidade Web](why-a11y.md)
 - [Quem define padrões e como você, brasileiro, pode fazer parte](standards.md)
-- [Como escrever textos em HTML: dos erros comuns em 2017 à revisão de implicações semânticas com HTML 5.1](html-text.md)
 - HTML para jornalistas (?)
 
 
